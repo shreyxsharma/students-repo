@@ -6,7 +6,7 @@ Install these libraries:
 
         npm install express mysql cors --save
 
-Go to the db.config.js file and make sure it matches your mysql credentials
+Go to the db.config.js file in the config folder and make sure it matches your mysql credentials
 
 In the root folder, run this command:
 
