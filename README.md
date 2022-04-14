@@ -1,0 +1,18 @@
+# students-app
+Simple app which shows student data
+
+We need node, mysql, express to run this app
+Install these libraries:
+
+        npm install express mysql cors --save
+
+In the root folder, run this command:
+
+        node server
+
+On a different terminal, run this command:
+
+        npm start
+        
+
+It should be working now
